@@ -1,7 +1,7 @@
 
 import './App.css';
 import CarPlateEntry from './Components/CarPlateEntry/CarPlateEntry';
-import ServiceWorkflow from './Components/ServiceWorkflow/ServiceWorkflow';
+// import ServiceWorkflow from './Components/ServiceWorkflow/ServiceWorkflow';
 
 function App() {
 
@@ -9,7 +9,7 @@ function App() {
 <div>
 
     <CarPlateEntry/>
-    <ServiceWorkflow/>
+    {/* <ServiceWorkflow/> */}
 </div>
    
    
