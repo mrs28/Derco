@@ -1,0 +1,35 @@
+@media (max-width: 380px) {
+  .background {
+    background-color: #f8f9fa;
+  }
+
+  .dercoImg1 {
+    position: absolute;
+    top: 8rem;
+    left: 0;
+  }
+
+  .dercoImg2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  .dercoImg3 {
+    position: absolute;
+    bottom: 23.5rem;
+    left: 3rem;
+  }
+
+  .dercoImg4 {
+    position: absolute;
+    bottom: 21rem;
+    right: 0;
+  }
+
+  .dercoImg5 {
+    position: absolute;
+    bottom: 0rem;
+    left: 5rem;
+  }
+}

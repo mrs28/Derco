@@ -1,7 +1,10 @@
 
 import './App.css';
 import CarPlateEntry from './Components/CarPlateEntry/CarPlateEntry';
-// import ServiceWorkflow from './Components/ServiceWorkflow/ServiceWorkflow';
+import ServiceWorkflow from './Components/ServiceWorkflow/ServiceWorkflow';
+import Background from './Components/Background/Background';
+
+
 
 function App() {
 
@@ -9,7 +12,15 @@ function App() {
 <div>
 
     <CarPlateEntry/>
-    {/* <ServiceWorkflow/> */}
+
+
+    <Background>
+      <ServiceWorkflow/>
+    </Background>
+
+   
+    
+
 </div>
    
    

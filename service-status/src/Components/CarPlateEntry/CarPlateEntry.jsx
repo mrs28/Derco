@@ -26,6 +26,9 @@ const CarPlateEntry = () => {
       <Input
         type="text"
         name="plate"
+        // width= ""
+        // height= "3.5px" 
+        
         // onChange={handleChange}
         placeholder="EJEM - PLO"
       />
@@ -58,6 +61,8 @@ const CarPlateEntry = () => {
     <img className={styles.dercoImg4} src="https://res.cloudinary.com/dzjf00pvx/image/upload/v1692219994/Derco4_noicos.png" alt="" />
 
     <img className={styles.dercoImg5} src="https://res.cloudinary.com/dzjf00pvx/image/upload/v1692220651/Derco5_kqiqyu.png" alt="" />
+
+  
 
     </div>
   );
