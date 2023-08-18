@@ -4,8 +4,8 @@ const Input = (props) => {
   return (
     <input
       className={styles.input}
-      // height={props.height}
-      // width={props.width}
+      height={props.height}
+      width={props.width}
       name={props.name}
       type={props.type}
       value={props.value}

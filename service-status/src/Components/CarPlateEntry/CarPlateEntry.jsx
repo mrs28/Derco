@@ -26,7 +26,7 @@ const CarPlateEntry = () => {
       <Input
         type="text"
         name="plate"
-        // width= ""
+        // width= "65%"
         // height= "3.5px" 
         
         // onChange={handleChange}
