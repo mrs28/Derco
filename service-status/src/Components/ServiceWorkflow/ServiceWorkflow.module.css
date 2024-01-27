@@ -1,58 +1,58 @@
 @media (max-width: 380px) {
-.serviceWorkFlow {
+  .serviceWorkFlow {
     width: 100%;
     height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     background-color: pink;
-}
+  }
 
-
-.boxLineServices {
+  /*LINEA VERTICAL*/
+  .boxLineServices {
     width: 100%;
-    padding-left: 10rem;
+    padding-left: 5rem;
     display: flex;
     justify-content: start;
     background-color: aqua;
-}
-.lineServices {
+  }
+
+  .lineServices {
     width: 18px;
     height: 450px;
     background-color: gray;
-    border-radius: 5% ;
+    border-radius: 5%;
+  }
 
-}
-.boxIconsServices {
+  /*ÍCONOS AZULES Y LISTA LOS SERVICIOS */
+  .boxIconsServices {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: yellow;
-    
-}
+  }
 
-.boxIconContainer {
-    width: 30% ;
-   
+  .boxIconContainer {
+    width: 30%;
     background-color: red;
-}
+  }
 
-/* esfera azul */
-.boxIcon {
-  width: 70px;
-  height: 70px;
-  margin: auto;
-  border-radius: 50%;
-  background-color: blue;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+  /* ÍCONO CÍRCULO AZUL */
+  .boxIcon {
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    border-radius: 50%;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 
-.boxText {
+  .boxText {
     width: 70%;
     text-align: justify;
-    background-color: pink
-}
+    background-color: pink;
+  }
 }

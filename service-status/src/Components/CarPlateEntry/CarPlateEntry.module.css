@@ -6,6 +6,8 @@
     position: relative;
     background-color: #f8f9fa;
     padding-bottom: 5rem;
+
+
   }
 
   .plateCheckMessage {
@@ -26,6 +28,7 @@
     bottom: 5rem;
   }
 
+  
   .dercoImg1 {
     position: absolute;
     top: 8rem;
